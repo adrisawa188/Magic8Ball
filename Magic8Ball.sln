@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Magic8Ball", "Magic8Ball\Magic8Ball.csproj", "{C5A2D640-E007-42FB-9CC3-F5BCB0CC990C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5A2D640-E007-42FB-9CC3-F5BCB0CC990C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5A2D640-E007-42FB-9CC3-F5BCB0CC990C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5A2D640-E007-42FB-9CC3-F5BCB0CC990C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5A2D640-E007-42FB-9CC3-F5BCB0CC990C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E4A0069-B6FC-472B-8362-F3E74426C209}
+	EndGlobalSection
+EndGlobal
